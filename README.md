@@ -2,8 +2,9 @@
 ## Giltree-News
 
 
-####  La description de notre projet : 
+####  La description de notre projet :
 
+Le projet "Giltree-News", est un site de news qui permet de consulter et de gérer des articles de journaux. 
 
 
 #### Notre équipe est composée de :  
