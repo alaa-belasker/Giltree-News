@@ -8,13 +8,13 @@ Le projet "Giltree-News", est un site de news qui permet de consulter et de gér
 
 
 #### Notre équipe est composée de :  
- @Achraf , @Helmi SASSI et @Alaa BELASKER.
+ @Achraf ALYOUSSOUFI, @Helmi SASSI et @Alaa BELASKER.
 
 #### La liste des fonctionnalités : 
 
 * Fonctionnalités obligatoires/demandées (énoncé du sujet) pour l'utilisateur-internaute-client : 
     * créer un compte.
-    * consultation les dernières actualités "news" mises en avant.
+    * consultation des dernières actualités "news" mises en avant.
     * affichage des actualités selon les préférences utilisateur.
     * commenter les actualités.
     * s’abonner aux notifications pour recevoir les dernières nouvelles (politique, sport, économie, etc.).
