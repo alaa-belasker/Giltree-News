@@ -7,6 +7,20 @@
 Le projet "Giltree-News", est un site de news qui permet de consulter et de gérer des articles de journaux. 
 
 
+### Spécifications techniques :
+
+*Choix technologiques : 
+    *FrontEnd : Angular.
+    *BackEnd : Node Js et  Express.
+    *Base de données : MongoDb.
+*Hébergement : Prestataire de service (OVH, Nordnet…) 
+    *Demo : Heruko.
+*Accessibilité : 
+    *Compatibilité navigateurs : tous les navigateurs.
+    *Types d’appareils : Mobile / tablette /desktop.
+    *Responsive design : mobile first.
+
+
 #### Notre équipe est composée de :  
  @Achraf ALYOUSSOUFI, @Helmi SASSI et @Alaa BELASKER.
 
