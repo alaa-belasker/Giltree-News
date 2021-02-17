@@ -7,7 +7,7 @@
 Le projet "Giltree-News", est un site de news qui permet de consulter et de gérer des articles de journaux. 
 
 
-### Spécifications techniques :
+#### Spécifications techniques :
 
 * Choix technologiques : 
     * FrontEnd : Angular.
@@ -22,7 +22,7 @@ Le projet "Giltree-News", est un site de news qui permet de consulter et de gér
 
 
 #### Notre équipe est composée de :  
- @Achraf ALYOUSSOUFI, @Helmi SASSI et @Alaa BELASKER.
+ @Achraf EL YOUSSOUFI, @Helmi SASSI et @Alaa BELASKER.
 
 #### La liste des fonctionnalités : 
 
@@ -67,5 +67,5 @@ Le projet "Giltree-News", est un site de news qui permet de consulter et de gér
 
 
 
-le lien vers Trello : https://trello.com/b/edeQd6cC/giltreenews-web-app .
+Le lien vers Trello : https://trello.com/b/edeQd6cC/giltreenews-web-app .
 
